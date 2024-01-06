@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+Author -Ashish singh
 
 ## Available Scripts
 
